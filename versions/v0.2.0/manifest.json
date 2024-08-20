@@ -3,16 +3,16 @@
 
     "manifestVersion": "1",
     "uuid": "e2f9e44c-06cc-46b6-a4d2-dd1ea3b95e1c",
-    "name": "Mod Name",
-    "version": "0.2.0",
+    "name": "Deutschübersetzung",
+    "version": "1.1.0",
     "category": ["Language"],
-    "description": "This is an example mod template for language mods",
+    "description": "Dies ist eine deutschübersetzung, bei fehlern itte melden. Grüsse von Enderlais",
     "links": [{"type": "homepage", "url": "https://discord.com/channels/1252985943183458405/1258004760334958614"}],
-    "authors": [{ "name": "Rebellium", "contacts": ["https://discord.com/users/1252978889668562995"] }],
-    "changelog": "",
+    "authors": [{ "name": "Enderlais", "contacts": ["https://discord.com/channels/1252985943183458405/1258009064428933180"] }],
+    "changelog": "Die mod wurde auf die spiel version 0.2.0 Akktuallisiert",
     "assets": [{ "type": "json", "path": "assets/language.json" }],
-    "supportedGameVersion": ">=0.2.0-beta.7",
-    "createdAt": "2024-07-22T10:30:00.000Z",
+    "supportedGameVersion": "0.2.0",
+    "createdAt": "2024-08-16T10:30:00.000Z",
     "license": "../../LICENSE.md",
     "icon": "../../icon.svg"
 }
