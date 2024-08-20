@@ -1,6 +1,6 @@
-# Your Mod Name
+# Deutsch mod
 
-To install this mod copy and paste below link into the mod section of Tech Giants Game. 
+Um diese mod zu instalieren muessen sie nur diesen link bei tech gigants in dem mod dingens reinkopieren. 
 ```
-https://username.github.io/repository/repository.json
+https://Enderlais.github.io/repository/repository.json
 ``` 
